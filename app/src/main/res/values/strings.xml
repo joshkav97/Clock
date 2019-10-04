@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="format12hr">12 HR</string>
+    <string name="format24hr">24 HR</string>
+    <string name="Sydney">Sydney</string>
+    <string name="Utrecht">Utrecht</string>
+    <string name="Tokyo">Tokyo</string>
+    <string name="New_York">New York</string>
+    <string name="London">London</string>
+</resources>
